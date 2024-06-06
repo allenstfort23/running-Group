@@ -1,7 +1,6 @@
 <h1>Running Application: Member Tracker</h1>
 <h2>Overview</h2>
-The Running-group is a Java-based application built with Spring Boot 3.2.2 and Maven. It serves as a platform for tracking members and their associated running groups. This project is designed to showcase the developer's proficiency in Spring Boot, Java, and related technologies, with plans to integrate React in the future as the project evolves.
-
+The Running-group is a Java-based application built with Spring Boot 3.2.2 and Maven. It serves as a platform for tracking members and their associated running groups. This project is designed to showcase proficiency in Spring Boot, Java, and related technologies.
 <h2>Technologies Used</h2>
 <h3>Java 17:</h3> The application is built using Java, leveraging the features introduced in version 17 for enhanced development.
 
